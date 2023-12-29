@@ -1,7 +1,7 @@
 
 
 ### Hey 👋, I'm Mikheil Gogia  
-#### I’m a front-end developer from Georgia.  
+#### I’m a full-stack developer from Georgia.  
   
 
 - 🔭 I’m currently working on some own projects.  
