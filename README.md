@@ -89,12 +89,17 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-![MrMishka02's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmishka02&layout=compact)
+</td><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMishka02&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>   
 
 <br/>  
 
