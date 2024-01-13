@@ -90,15 +90,11 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 ![MrMishka02's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&theme=dark)
 
-</td><td valign="top" width="50%">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMishka02&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>   
 
 <br/>  
 
