@@ -91,9 +91,9 @@
 
 ## Github Stats  
 
-![MrMishka02's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&theme=dark)
+![MrMishka02's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmishka02&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmishka02&layout=compact)
 
 
 <br/>  
