@@ -92,7 +92,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-[![MrMishka02's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmishka02)](https://github.com/anuraghazra/github-readme-stats)
+![MrMishka02's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMishka02&show_icons=true&theme=dark)
 
 </td><td valign="top" width="50%">
 
